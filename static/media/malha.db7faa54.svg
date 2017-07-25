@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="156.432px" height="173.333px" viewBox="0 0 156.432 173.333" enable-background="new 0 0 156.432 173.333"
+	 xml:space="preserve">
+<pattern  x="-790.151" y="4073.667" width="203.347" height="113.666" patternUnits="userSpaceOnUse" id="New_Pattern_2" viewBox="60.782 -166.308 203.347 113.666" overflow="visible">
+	<g>
+		<polygon fill="none" points="60.782,-166.308 264.129,-166.308 264.129,-52.642 60.782,-52.642 		"/>
+		<polygon fill="none" stroke="#DCDBDB" stroke-miterlimit="10" points="294.234,-104.781 294.023,-104.781 234.029,-104.781 
+			203.924,-52.645 234.029,-0.5 236,-0.5 294.234,-0.5 324.334,-52.645 		"/>
+		<polygon fill="none" stroke="#DCDBDB" stroke-miterlimit="10" points="90.888,-104.781 90.677,-104.781 30.683,-104.781 
+			0.577,-52.645 30.683,-0.5 32.653,-0.5 90.888,-0.5 120.987,-52.645 		"/>
+		<polygon fill="none" stroke="#DCDBDB" stroke-miterlimit="10" points="294.234,-218.447 294.023,-218.447 234.029,-218.447 
+			203.924,-166.311 234.029,-114.166 236,-114.166 294.234,-114.166 324.334,-166.311 		"/>
+		<polygon fill="none" stroke="#DCDBDB" stroke-miterlimit="10" points="192.562,-161.614 192.351,-161.614 132.356,-161.614 
+			102.251,-109.478 132.356,-57.333 134.327,-57.333 192.562,-57.333 222.661,-109.478 		"/>
+		<polygon fill="none" stroke="#DCDBDB" stroke-miterlimit="10" points="90.888,-218.447 90.677,-218.447 30.683,-218.447 
+			0.577,-166.311 30.683,-114.166 32.653,-114.166 90.888,-114.166 120.987,-166.311 		"/>
+	</g>
+</pattern>
+<g id="Fundo">
+</g>
+<g id="Imagens">
+</g>
+<g id="OBSERVAÇOES">
+</g>
+<g id="Textos">
+	<pattern  id="SVGID_1_" xlink:href="#New_Pattern_2" patternTransform="matrix(0.7647 0 0 0.7647 -1574.8711 -2773.6025)">
+	</pattern>
+	<pattern  id="SVGID_2_" xlink:href="#New_Pattern_2" patternTransform="matrix(1 0 0 1 0 -48.6543)">
+	</pattern>
+	
+		<rect x="-296.203" y="-304.271" opacity="0.5" fill="url(#SVGID_1_)" stroke="url(#SVGID_2_)" stroke-miterlimit="10" width="800" height="800"/>
+</g>
+<g id="Layer_5" display="none">
+	
+		<rect x="0.5" y="-1.384" display="inline" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="155.432" height="169.435"/>
+	
+		<rect x="-22.167" y="-3.604" display="inline" fill="none" stroke="#EFB31E" stroke-miterlimit="10" width="200.766" height="173.874"/>
+	
+		<rect x="23.333" y="35.802" display="inline" fill="none" stroke="#EFB31E" stroke-miterlimit="10" width="109.766" height="95.063"/>
+	<line display="inline" fill="none" stroke="#EFB31E" stroke-miterlimit="10" x1="-22.167" y1="86.917" x2="23.333" y2="86.917"/>
+	<line display="inline" fill="none" stroke="#EFB31E" stroke-miterlimit="10" x1="0.583" y1="109.667" x2="0.583" y2="64.167"/>
+</g>
+</svg>
